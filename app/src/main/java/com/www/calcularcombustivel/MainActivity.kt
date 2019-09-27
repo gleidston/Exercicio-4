@@ -48,4 +48,4 @@ class MainActivity : AppCompatActivity() {
         }
             return CamposValidado
         }
-}
+}// lol
