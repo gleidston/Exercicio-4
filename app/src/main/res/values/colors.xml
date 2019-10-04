@@ -3,5 +3,6 @@
     <color name="colorPrimary">#ffffff</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
-    <color name="coral">#f77062</color>
+    <color name="coral">#F77062</color>
+    <color name="basica">#878787</color>
 </resources>
